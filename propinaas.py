@@ -1,7 +1,7 @@
 import flet as ft
 
 def main(page: ft.Page):
-    page.title = "Calculadora de Servicio"
+    page.title = "Calculadora de propinas"
     page.vertical_alignment = ft.MainAxisAlignment.CENTER
 
     txt_total = ft.TextField(
